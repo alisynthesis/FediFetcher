@@ -1,6 +1,5 @@
 {
-  "access-token": "secrets.ACCESS_TOKEN",
-  "server": "io.waxandleather.com",
+    "server": "io.waxandleather.com",
   "home-timeline-length": 200,
   "max-followings": 80,
   "from-notifications": 1
