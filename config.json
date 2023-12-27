@@ -1,5 +1,5 @@
 {
-  "access-token": "ld9f3hMSbRP5nFgaTT7pSrKpPDncMmJviJamzHq9dZA",
+  "access-token": ${{ secrets.CYPRESS_CONFIG_JSON }},
   "server": "io.waxandleather.com",
   "home-timeline-length": 200,
   "max-followings": 80,
