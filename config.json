@@ -1,5 +1,5 @@
 {
-  "access-token": "ACCESS_TOKEN",
+  "access-token": ${{ secrets.ACCESS_TOKEN }},
   "server": "io.waxandleather.com",
   "home-timeline-length": 200,
   "max-followings": 80,
